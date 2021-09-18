@@ -1,0 +1,15 @@
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\bin\Debug\FileCrypter.exe.config
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\bin\Debug\FileCrypter.exe
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\bin\Debug\FileCrypter.pdb
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\obj\Debug\FileCrypter.csprojAssemblyReference.cache
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\obj\Debug\MainWindow.g.cs
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\obj\Debug\App.g.cs
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\obj\Debug\FileCrypter_MarkupCompile.cache
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\obj\Debug\MainWindow.baml
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\obj\Debug\FileCrypter.g.resources
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\obj\Debug\FileCrypter.Properties.Resources.resources
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\obj\Debug\FileCrypter.csproj.GenerateResource.cache
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\obj\Debug\FileCrypter.csproj.CoreCompileInputs.cache
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\obj\Debug\FileCrypter.exe
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\obj\Debug\FileCrypter.pdb
+C:\Users\Harry\RiderProjects\FileCrypter\FileCrypter\obj\Debug\FileCrypter_MarkupCompile.lref
